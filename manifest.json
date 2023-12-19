@@ -1,11 +1,10 @@
 {
-	"id": "sample-plugin",
-	"name": "Sample Plugin",
+	"id": "obsidian-pandoc-wiki-converter",
+	"name": "Obsidian Pandoc Wiki Converter",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
-	"description": "Demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
-	"fundingUrl": "https://obsidian.md/pricing",
+	"description": "Converts pandoc-links to wiki and back again.",
+	"author": "DahlitzFlorian",
+	"authorUrl": "https://github.com/DahlitzFlorian",
 	"isDesktopOnly": false
 }
